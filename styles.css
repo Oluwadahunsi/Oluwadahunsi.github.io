@@ -1,0 +1,39 @@
+body {
+	margin: 0;
+}
+
+#image-container {
+	width: 20vw;
+	height: 100vh;
+	position: fixed;
+	background: black;
+
+}
+
+#main-section {
+	width: 80vw;
+	left: 20vw;
+	position: absolute;
+	overflow: 
+	background: yellow;
+}
+
+#header{
+	height: 80px;
+	width: 80vw;
+	background:red;
+}
+
+#scroll {
+	overflow: scroll;
+}
+
+#body-content {
+	background: white;
+}
+
+footer {
+	width: 80vw;
+	height: 130px;
+	background: orange;
+}
